@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: red;
+}
+
+.input{
+    height: 37px;
+    width: 250px;
+    font-size: large;
+    background-color: bisque;
+    border-radius: 3px;
+}
+
+.main-inp{
+    background-color: rgb(237, 170, 170);
+}
